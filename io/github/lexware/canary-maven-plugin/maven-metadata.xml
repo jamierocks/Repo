@@ -3,12 +3,13 @@
   <groupId>io.github.lexware</groupId>
   <artifactId>canary-maven-plugin</artifactId>
   <versioning>
-    <latest>1.0</latest>
+    <latest>1.1-SNAPSHOT</latest>
     <release>1.0</release>
     <versions>
       <version>1.0-SNAPSHOT</version>
       <version>1.0</version>
+      <version>1.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150119164002</lastUpdated>
+    <lastUpdated>20150121195732</lastUpdated>
   </versioning>
 </metadata>
