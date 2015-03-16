@@ -3,9 +3,11 @@
   <groupId>uk.jamierocks.bukkit</groupId>
   <artifactId>enderbowaddons</artifactId>
   <versioning>
+    <release>1.4-1.0</release>
     <versions>
       <version>1.4-1.0-SNAPSHOT</version>
+      <version>1.4-1.0</version>
     </versions>
-    <lastUpdated>20150316211656</lastUpdated>
+    <lastUpdated>20150316213921</lastUpdated>
   </versioning>
 </metadata>
