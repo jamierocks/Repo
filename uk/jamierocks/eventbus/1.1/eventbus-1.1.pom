@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>uk.jamierocks</groupId>
+  <artifactId>eventbus</artifactId>
+  <version>1.1</version>
+  <name>EventBus</name>
+  <description>EventBus - Somewhat performant event-bus used in Lexteam projects.</description>
+  <url>http://lexteam.jamierocks.uk/</url>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>http://opensource.org/licenses/MIT</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <issueManagement>
+    <system>GitHub</system>
+    <url>https://github.com/Lexteam/EventBus/issues</url>
+  </issueManagement>
+  <scm>
+    <connection>scm:git:https://github.com/Lexteam/EventBus.git</connection>
+    <developerConnection>scm:git:git@github.com:Lexteam/EventBus.git</developerConnection>
+    <url>https://github.com/Lexteam/EventBus</url>
+  </scm>
+</project>
